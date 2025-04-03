@@ -34,6 +34,3 @@ Anyone who loves Tic-Tac-Toe! You can play it for fun or use it as a cool projec
 
 You’re free to use and share this game however you want!  
 
----
-
-This keeps it simple, clean, and easy to understand while feeling natural. Let me know if you’d like any changes!  
